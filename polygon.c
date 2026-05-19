@@ -1,0 +1,6 @@
+class polygon 
+
+{
+    protected :
+    int
+}
